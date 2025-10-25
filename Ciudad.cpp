@@ -23,6 +23,10 @@ void Ciudad::insertarDespuesDe(int fila, int columna, Vivienda* casa) {
         cerr << "Error en la fila o columna" << endl;
     }
 
+    if ( fila > columna ) {
+        acol[]
+    }
+
 }
 Ciudad::~Ciudad() {
 
