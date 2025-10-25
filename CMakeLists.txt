@@ -4,4 +4,8 @@ project(Taller1_Estructura_de_Datos)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Taller1_Estructura_de_Datos
-        main.cpp)
+        main.cpp
+        Ciudad.cpp
+        Vivienda.cpp
+        Sistema.h
+        Sistema.cpp)
